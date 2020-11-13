@@ -1,0 +1,32 @@
+C:\Users\paulo\AppData\Local\Temporary Projects\SQLTESTE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\paulo\AppData\Local\Temporary Projects\SQLTESTE\obj\Debug\SQLTESTE.Form1.resources
+C:\Users\paulo\AppData\Local\Temporary Projects\SQLTESTE\obj\Debug\SQLTESTE.Properties.Resources.resources
+C:\Users\paulo\AppData\Local\Temporary Projects\SQLTESTE\obj\Debug\SQLTESTE.csproj.GenerateResource.Cache
+C:\Users\paulo\AppData\Local\Temporary Projects\SQLTESTE\bin\Debug\SQLTESTE.exe
+C:\Users\paulo\AppData\Local\Temporary Projects\SQLTESTE\bin\Debug\SQLTESTE.pdb
+C:\Users\paulo\AppData\Local\Temporary Projects\SQLTESTE\obj\Debug\SQLTESTE.exe
+C:\Users\paulo\AppData\Local\Temporary Projects\SQLTESTE\obj\Debug\SQLTESTE.pdb
+C:\PROJETOS_VS2008\SQLTESTE\SQLTESTE\obj\Debug\SQLTESTE.exe
+C:\PROJETOS_VS2008\SQLTESTE\SQLTESTE\obj\Debug\SQLTESTE.pdb
+C:\PROJETOS_VS2008\SQLTESTE\SQLTESTE\bin\Debug\SQLTESTE.exe
+C:\PROJETOS_VS2008\SQLTESTE\SQLTESTE\bin\Debug\SQLTESTE.pdb
+C:\PROJETOS_VS2008\SQLTESTE\SQLTESTE\obj\Debug\ResolveAssemblyReference.cache
+C:\PROJETOS_VS2008\SQLTESTE\SQLTESTE\obj\Debug\SQLTESTE.Form1.resources
+C:\PROJETOS_VS2008\SQLTESTE\SQLTESTE\obj\Debug\SQLTESTE.Properties.Resources.resources
+C:\PROJETOS_VS2008\SQLTESTE\SQLTESTE\obj\Debug\SQLTESTE.csproj.GenerateResource.Cache
+C:\sqlexpress\SQLTESTE\SQLTESTE\obj\Debug\SQLTESTE.exe
+C:\sqlexpress\SQLTESTE\SQLTESTE\obj\Debug\SQLTESTE.pdb
+C:\sqlexpress\SQLTESTE\SQLTESTE\bin\Debug\SQLTESTE.exe
+C:\sqlexpress\SQLTESTE\SQLTESTE\bin\Debug\SQLTESTE.pdb
+C:\sqlexpress\SQLTESTE\SQLTESTE\obj\Debug\ResolveAssemblyReference.cache
+C:\sqlexpress\SQLTESTE\SQLTESTE\obj\Debug\SQLTESTE.Form1.resources
+C:\sqlexpress\SQLTESTE\SQLTESTE\obj\Debug\SQLTESTE.Properties.Resources.resources
+C:\sqlexpress\SQLTESTE\SQLTESTE\obj\Debug\SQLTESTE.csproj.GenerateResource.Cache
+C:\Users\matheus.novais\Desktop\C#\SQLTESTE\SQLTESTE\obj\Debug\SQLTESTE.exe
+C:\Users\matheus.novais\Desktop\C#\SQLTESTE\SQLTESTE\obj\Debug\SQLTESTE.pdb
+C:\Users\matheus.novais\Desktop\C#\SQLTESTE\SQLTESTE\bin\Debug\SQLTESTE.exe
+C:\Users\matheus.novais\Desktop\C#\SQLTESTE\SQLTESTE\bin\Debug\SQLTESTE.pdb
+C:\Users\matheus.novais\Desktop\C#\SQLTESTE\SQLTESTE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\matheus.novais\Desktop\C#\SQLTESTE\SQLTESTE\obj\Debug\SQLTESTE.Form1.resources
+C:\Users\matheus.novais\Desktop\C#\SQLTESTE\SQLTESTE\obj\Debug\SQLTESTE.Properties.Resources.resources
+C:\Users\matheus.novais\Desktop\C#\SQLTESTE\SQLTESTE\obj\Debug\SQLTESTE.csproj.GenerateResource.Cache
